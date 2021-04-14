@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{EE86212E-6D24-413A-AF1C-FE017E6C0F2B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BF73DE23-7624-4F4A-92AF-0144471A6108}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "chunkifier", "chunkifier\chunkifier.csproj", "{9E40B2DA-7D3D-43F7-81DE-A73A04A8F2D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE86212E-6D24-413A-AF1C-FE017E6C0F2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE86212E-6D24-413A-AF1C-FE017E6C0F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE86212E-6D24-413A-AF1C-FE017E6C0F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE86212E-6D24-413A-AF1C-FE017E6C0F2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E40B2DA-7D3D-43F7-81DE-A73A04A8F2D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E40B2DA-7D3D-43F7-81DE-A73A04A8F2D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E40B2DA-7D3D-43F7-81DE-A73A04A8F2D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E40B2DA-7D3D-43F7-81DE-A73A04A8F2D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DFEDC4E-E3BD-4969-B873-3CE100E65539}
+	EndGlobalSection
+EndGlobal
